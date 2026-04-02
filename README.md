@@ -55,6 +55,7 @@ This project is a **role-based finance dashboard** designed to help users monito
 
 ## 📁 Project Structure
 
+```
 Finance-Dashboard-UI/
 │── src/
 │   ├── components/
@@ -67,6 +68,7 @@ Finance-Dashboard-UI/
 │── index.html
 │── package.json
 │── vite.config.ts
+```
 
 ---
 

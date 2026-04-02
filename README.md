@@ -2,13 +2,12 @@
 
 A modern **Finance Dashboard Web Application** built using React and Vite that allows users to track income, expenses, and financial insights through an interactive and responsive interface.
 
----
 
 ## 🚀 Live Demo
 
 🔗 https://finance-dashboard-ui-b63l.vercel.app/
 
----
+
 
 ## 📂 GitHub Repository
 

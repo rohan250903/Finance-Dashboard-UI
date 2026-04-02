@@ -13,13 +13,13 @@ A modern **Finance Dashboard Web Application** built using React and Vite that a
 
 🔗 https://github.com/rohan250903/Finance-Dashboard-UI
 
----
+
 
 ## 📌 Project Overview
 
 This project is a **role-based finance dashboard** designed to help users monitor their financial activities efficiently. It provides a clean UI with data visualization, transaction tracking, and insightful analytics.
 
----
+
 
 ## ✨ Features
 
@@ -35,7 +35,7 @@ This project is a **role-based finance dashboard** designed to help users monito
 * Responsive Design (Mobile + Desktop)
 * Local Storage Persistence
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -50,7 +50,7 @@ This project is a **role-based finance dashboard** designed to help users monito
 * Lucide React (Icons)
 * Context API (State Management)
 
----
+
 
 ## 📁 Project Structure
 
@@ -90,7 +90,7 @@ npm run dev
 
 npm run build
 
----
+
 
 ## 🧠 Technical Decisions & Trade-offs
 
@@ -105,7 +105,7 @@ npm run build
 * Limited scalability without API/database
 * Role-based system is frontend-only (no authentication)
 
----
+
 
 ## 📊 How It Works
 
@@ -115,7 +115,7 @@ npm run build
 4. Charts visualize trends and categories
 5. Insights provide basic financial analysis
 
----
+
 
 ## 🔮 Future Improvements
 
@@ -134,20 +134,20 @@ npm run build
 * Data stored locally only
 * Basic analytics
 
----
+
 
 ## 👨‍💻 Author
 
 Rohan Ghosh
 GitHub: https://github.com/rohan250903
 
----
+
 
 ## 📜 License
 
 This project is licensed under the MIT License.
 
----
+
 
 ## ⭐ Final Note
 
